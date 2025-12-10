@@ -112,7 +112,7 @@
         </div>
 
         <div class="border-t border-white/20 mt-8 pt-4 text-center">
-          <p class="text-sm">&copy; 2025 SMKN 4 Bogor. All rights reserved.</p>
+          <p class="text-sm">&copy; 2025 SMKN 4 Bogor By JUSTINE XI PPLG 2 2025. All rights reserved.</p>
         </div>
       </div>
     </footer>
