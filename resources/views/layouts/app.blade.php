@@ -26,9 +26,9 @@
       >
         <div
           class="container cursor-pointer mx-auto px-4 py-4 flex justify-between items-center"
-          onclick="window.location.href = '/'"
         >
-          <div class="flex gap-4">
+          <div class="flex gap-4"
+          onclick="window.location.href = '/'">
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeItZ8LNRBjD05grMTWt0H2M5mncveH_T1-Q&s"
               style="width: 30px"
